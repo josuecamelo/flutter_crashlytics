@@ -8,8 +8,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:alura_crashlytics/main.dart';
-
 import '../lib/screens/dashboard.dart';
 
 void main() {
